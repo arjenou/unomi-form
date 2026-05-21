@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-03:09:49	440640/440640	---MCZ	200	added ('OK')	text/html	etag:W/%22l5cy348d3h99nt%22	https://ec-force.com/page/20260528?utm_source=facebook&utm_medium=snsad&utm_campaign=seminar&utm_content=202605282419&utm_term=seminar&utm_id=120241718702200160_v2_s01	./ecforce_clone/ec-force.com/page/20260528f38b.html	(from )
-03:09:49	56/56	---M--	200	added ('OK')	text/plain	etag:%2269e70556-38%22	https://ec-force.com/robots.txt		(from )
-03:09:51	440483/440483	---MCZ	200	added ('OK')	text/html	etag:W/%22p9yk4c1m6k99jg%22	https://ec-force.com/page/20260528	./ecforce_clone/ec-force.com/page/20260528.html	(from https://ec-force.com/page/20260528?utm_source=facebook&utm_medium=snsad&utm_campaign=seminar&utm_content=202605282419&utm_term=seminar&utm_id=120241718702200160_v2_s01)
